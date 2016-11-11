@@ -2,6 +2,6 @@
 :heart:
 123
 
-苹果
+apple
 
 rocket
